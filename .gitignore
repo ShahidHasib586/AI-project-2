@@ -1,0 +1,12 @@
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.mp4
+*.avi
+*.mov
+*.zip
+*.tar
+*.tar.gz
+*.h5
+logs/
